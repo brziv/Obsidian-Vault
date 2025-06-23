@@ -11,24 +11,10 @@
             "id": "b009455aae9e7517",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Notes/Information Security.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Information Security"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,11 +163,12 @@
   },
   "active": "b009455aae9e7517",
   "lastOpenFiles": [
-    "Emergent Notes/Information Security.md",
-    "Emergent Notes/Cybersecurity.md",
     "Daily Notes/23-06-2025.md",
-    "Emergent Notes/AI.md",
+    "Emergent Notes/Information Security.md",
+    "Emergent Notes/TLS.md",
+    "Emergent Notes/Cybersecurity.md",
     "Emergent Notes/Computer.md",
+    "Emergent Notes/AI.md",
     "Emergent Notes/Network (computer).md",
     "Emergent Notes/Edge AI.md",
     "Emergent Notes/AI Agent.md",
@@ -203,7 +190,6 @@
     "Emergent Notes/LLM.md",
     "Memory Dump.md",
     "Daily Notes",
-    "Emergent Notes/Artificial Intelligence (AI).md",
     "Untitled.canvas",
     "Emergent Notes",
     "Daily Notes",
