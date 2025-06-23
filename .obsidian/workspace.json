@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,21 +153,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "e22db0495e2b5ef5",
   "lastOpenFiles": [
-    "Emergent Notes/ChatGPT.md",
-    "Untitled.canvas",
-    "Emergent Notes/Obsidian.md",
-    "Emergent Notes/Youtube.md",
+    "Daily Notes/23-06-2025.md",
+    "Emergent Notes/AI.md",
     "Memory Dump.md",
+    "Emergent Notes/ChatGPT.md",
+    "Emergent Notes/LLM.md",
+    "Emergent Notes/Machine Learning.md",
+    "Emergent Notes/Obsidian.md",
+    "Emergent Notes/Notion.md",
+    "Emergent Notes/Deep Learning.md",
+    "Emergent Notes/Project Management.md",
+    "Daily Notes",
+    "Emergent Notes/Youtube.md",
+    "Emergent Notes/Reinforcement Learning.md",
+    "Emergent Notes/Artificial Intelligence (AI).md",
+    "Untitled.canvas",
     "Daily Template.md",
     "Daily Notes/22-06-2025.md",
     "ChatGPT.md",
