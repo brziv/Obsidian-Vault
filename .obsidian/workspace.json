@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d312c2eb84cb1f42",
+        "id": "0a313f19ae7a1697",
         "type": "tabs",
         "children": [
           {
-            "id": "e22db0495e2b5ef5",
+            "id": "b009455aae9e7517",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Notes/Information Security.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Information Security"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5085258483887
+    "width": 264.5085258483887
   },
   "right": {
     "id": "891422a13b890256",
@@ -161,33 +175,39 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e22db0495e2b5ef5",
+  "active": "b009455aae9e7517",
   "lastOpenFiles": [
+    "Emergent Notes/Information Security.md",
+    "Emergent Notes/Cybersecurity.md",
     "Daily Notes/23-06-2025.md",
     "Emergent Notes/AI.md",
-    "Memory Dump.md",
-    "Emergent Notes/ChatGPT.md",
-    "Emergent Notes/LLM.md",
-    "Emergent Notes/Machine Learning.md",
-    "Emergent Notes/Obsidian.md",
-    "Emergent Notes/Notion.md",
-    "Emergent Notes/Deep Learning.md",
+    "Emergent Notes/Computer.md",
+    "Emergent Notes/Network (computer).md",
+    "Emergent Notes/Edge AI.md",
+    "Emergent Notes/AI Agent.md",
+    "Emergent Notes/Multimodal Model.md",
+    "Emergent Notes/VPN.md",
     "Emergent Notes/Project Management.md",
-    "Daily Notes",
-    "Emergent Notes/Youtube.md",
+    "Emergent Notes/ChatGPT.md",
+    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Obsidian.md",
+    "Emergent Notes/Language Model.md",
+    "Emergent Notes/Notion.md",
+    "Emergent Notes/OSI Model.md",
     "Emergent Notes/Reinforcement Learning.md",
+    "Emergent Notes/Machine Learning.md",
+    "Emergent Notes/Internet.md",
+    "Emergent Notes/Deep Learning.md",
+    "Emergent Notes/Youtube.md",
+    "Emergent Notes/Untitled.md",
+    "Emergent Notes/LLM.md",
+    "Memory Dump.md",
+    "Daily Notes",
     "Emergent Notes/Artificial Intelligence (AI).md",
     "Untitled.canvas",
-    "Daily Template.md",
-    "Daily Notes/22-06-2025.md",
-    "ChatGPT.md",
     "Emergent Notes",
-    "2025-06-22.md",
     "Daily Notes",
     "Artificial Intelligence",
-    "asd.md",
-    "Test Note.md",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
