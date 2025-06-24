@@ -8,14 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "artificial-intelligence",
+      "query": "#computer",
+      "color": {
+        "a": 1,
+        "rgb": 14411325
+      }
+    },
+    {
+      "query": "#artificial-intelligence",
       "color": {
         "a": 1,
         "rgb": 15238725
       }
     },
     {
-      "query": "network",
+      "query": "#network",
       "color": {
         "a": 1,
         "rgb": 5151727
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8410178272534146,
+  "scale": 0.8075995640448578,
   "close": true
 }

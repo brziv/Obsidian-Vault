@@ -8,7 +8,7 @@ In a project, we have several related items:
 	Closure report: formally end
 	[[Triple constraint]]: scope, time, cost
 	Product breakdown: from general to details
-	Network diagram: flow, dependencies
+	[[Network diagram]]: flow, dependencies
 		Float: time can be delayed between tasks
 	Change control: manage changes
 		Documentation: for others, future reference

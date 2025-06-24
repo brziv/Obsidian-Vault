@@ -1,4 +1,4 @@
-InfoSec is the protection of information against unauthorized access, use, disclosure, modification and destruction. Specifically, it involves protecting the CIA triad of information: [[Confidentiality]], [[Integrity]] and [[Availability]]
+InfoSec is the protection of information against unauthorized access, use, disclosure, modification and destruction. Specifically, it involves protecting the CIA triad of information: [[Confidentiality]], [[Integrity]] and [[Availability]], with Authenticity being an extension.
 	IT/Computer/[[Cybersecurity]]: protect tech systems from cyber attacks
 	Assurance:  Backup, recovery when incident happens
 
@@ -18,4 +18,3 @@ Information system:
 	Transaction - Workers
 
 Computer-based IS: hardware, software, DB, network, procedures
-

@@ -1,0 +1,1 @@
+Information can be accesed by authorized users whenever they want.

@@ -1,0 +1,1 @@
+Information can only be accessed by an authorized user.
