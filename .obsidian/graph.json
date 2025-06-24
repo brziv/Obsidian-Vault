@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#computer",
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5151727
       }
+    },
+    {
+      "query": "#psychology",
+      "color": {
+        "a": 1,
+        "rgb": 11752160
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8075995640448578,
+  "scale": 0.51468216457385,
   "close": true
 }
