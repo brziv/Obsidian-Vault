@@ -1,4 +1,3 @@
-#tool 
 
 An excellent tool to plan, organize tasks and track goals.
 

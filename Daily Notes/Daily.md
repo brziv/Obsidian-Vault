@@ -1,0 +1,1 @@
+Essentially a hub note.

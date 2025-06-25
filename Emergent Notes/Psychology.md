@@ -1,8 +1,9 @@
 #psychology 
 
 [[Cognitive rigidity]]
+[[Cognitive flexibility]]
 [[Doubt]]
 [[Ego]]
-[[Perseveration]]
-[[Rumination]]
-[[Sunk cost]]
+[[Procrastination]]
+[[Sleep]]
+[[Sunk cost fallacy]]

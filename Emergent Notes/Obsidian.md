@@ -1,4 +1,3 @@
-#tool
 
 A tool that I find fascinating just after minutes of exploring and seeing what it can offer. It can be a total game-changer for someone as introspective as me, who is a deep thinker seeking meaning, truth, better understanding of the world, including reality and human ourselves, emotionally and psychologically.
 

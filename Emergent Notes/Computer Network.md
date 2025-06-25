@@ -8,8 +8,10 @@ Computer network is a system consists of two or more electronic devices, connect
 		Cable, Switch, Hub, Router
 	MAN (Metropolitan): towns, cities
 		FDDI, CDDI, ATM
-	WAN (Wide Area): countries, globe (Internet)
+	WAN (Wide Area): countries, globe ([[Internet]])
 		Leased line, Dial-up
-	VPN (Virtual Private): secure, encrypted tunnel over public networks
+	[[VPN]] (Virtual Private): secure, encrypted tunnel over public networks
 
 [[OSI Model]]
+[[Client-server]]
+[[P2P]]

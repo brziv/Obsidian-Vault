@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ecebe411f44e1f0d",
+        "id": "e87ec0aeb00fca03",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac00716101320a9",
+            "id": "64b2e450c2a271f0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5085258483887
+    "width": 242.50852584838867
   },
   "right": {
     "id": "891422a13b890256",
@@ -122,6 +122,37 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "78f74c3ac331bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6cca39b0c96e1d95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       }
@@ -140,34 +171,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ac00716101320a9",
+  "active": "64b2e450c2a271f0",
   "lastOpenFiles": [
-    "Emergent Notes/Embedded system.md",
-    "Emergent Notes/Cybersecurity.md",
-    "Emergent Notes/AI.md",
-    "Emergent Notes/Machine Learning.md",
-    "Emergent Notes/VPN.md",
-    "Emergent Notes/OSI Model.md",
-    "Emergent Notes/TLS.md",
-    "Emergent Notes/Youtube.md",
-    "Emergent Notes/Information Security.md",
-    "Emergent Notes/Cyber attacks.md",
-    "Emergent Notes/Integrity.md",
-    "Emergent Notes/Availability.md",
-    "Emergent Notes/Confidentiality.md",
-    "Emergent Notes/Cognitive rigidity.md",
+    "Emergent Notes/Time (project).md",
+    "Emergent Notes/Sleep.md",
+    "Emergent Notes/Project Management.md",
+    "Emergent Notes/Scope.md",
+    "Emergent Notes/WBS.md",
+    "Emergent Notes/Network diagram.md",
     "Emergent Notes/Cost (project).md",
     "Emergent Notes/Management.md",
-    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Time management.md",
+    "Emergent Notes/Triple constraint.md",
+    "Emergent Notes/Internet.md",
+    "Emergent Notes/Computer Network.md",
     "Daily Notes/Daily.md",
     "Daily Notes/25-06-2025.md",
     "Daily Notes/24-06-2025.md",
     "Daily Notes/23-06-2025.md",
-    "Emergent Notes/Project Management.md",
-    "Emergent Notes/Network diagram.md",
-    "Emergent Notes/Triple constraint.md",
-    "Emergent Notes/Network.md",
-    "Emergent Notes/IoT.md",
+    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Procrastination.md",
+    "Emergent Notes/VPN.md",
+    "Emergent Notes/P2P.md",
+    "Emergent Notes/Client-server.md",
+    "Emergent Notes/OSI Model.md",
+    "Emergent Notes/TLS.md",
+    "Emergent Notes/Computer systems.md",
+    "Emergent Notes/Operating System.md",
+    "Emergent Notes/Computer Architecture.md",
     "Untitled.canvas",
     "Daily Notes",
     "Emergent Notes",
