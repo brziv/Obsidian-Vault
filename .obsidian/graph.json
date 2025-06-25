@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "#computer",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 11752160
       }
+    },
+    {
+      "query": "#compass",
+      "color": {
+        "a": 1,
+        "rgb": 4641467
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.51468216457385,
+  "scale": 0.5146821645738504,
   "close": true
 }
