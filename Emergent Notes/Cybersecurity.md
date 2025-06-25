@@ -1,8 +1,8 @@
 #network 
 
-The protection of [[Network (computer)]] systems and information transmitted on it against unauthorized attacks and intrusions.
+The protection of [[Network]] systems and information transmitted on it against unauthorized attacks and intrusions.
 	Firewall, Proxy: packet filtering, access control
-	[[VPN]], techniques such as SSL/[[TLS]], PGP
+	VPN, techniques such as SSL/TLS, PGP
 	Monitoring, detecting and preventing attacks
 
 [[Cyber attacks]]

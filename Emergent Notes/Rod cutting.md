@@ -1,3 +1,5 @@
+#theory
+
 We want to find the maximum profit from a rod, by deciding if we should cut it or not, and if we cut, where to cut and how many times.
 
 The idea is to go from the very bottom, slowly solve the sub-problems, use the results to solve larger sub-problems, and eventually the problem will be solved.

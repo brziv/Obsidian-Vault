@@ -1,24 +1,17 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#computer",
+      "query": "#theory",
       "color": {
         "a": 1,
         "rgb": 14411325
-      }
-    },
-    {
-      "query": "#artificial-intelligence",
-      "color": {
-        "a": 1,
-        "rgb": 15238725
       }
     },
     {
@@ -29,6 +22,13 @@
       }
     },
     {
+      "query": "#ai",
+      "color": {
+        "a": 1,
+        "rgb": 15238725
+      }
+    },
+    {
       "query": "#psychology",
       "color": {
         "a": 1,
@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "#compass",
+      "query": "#management",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5287576989491101,
+  "scale": 0.45050814143076984,
   "close": true
 }

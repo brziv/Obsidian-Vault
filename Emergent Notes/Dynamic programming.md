@@ -1,4 +1,4 @@
-#computer 
+#theory
 
 A method of solving problems by breaking them into smaller, easier sub-problems. It is very related to iteration and recursion.
 

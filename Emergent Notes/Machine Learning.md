@@ -1,2 +1,3 @@
-#artificial-intelligence 
+#ai
 
+[[Deep Learning]]

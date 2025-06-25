@@ -1,1 +1,4 @@
 #network
+
+[[VPN]]
+[[TLS]]

@@ -1,1 +1,0 @@
-Information can only be modified by an authorized user.

@@ -1,6 +1,4 @@
-#computer 
-
-Essentially a [[Computer]] with a specialized processor (microcontroller - MCU), memory and I/O devices (sensors, actuators).
+Essentially a computer with a specialized processor (microcontroller - MCU), memory and I/O devices (sensors, actuators).
 	Specific tasks, not general-purpose
 	Often integrated as a part of a bigger system
 	Constraints: real-time, resources

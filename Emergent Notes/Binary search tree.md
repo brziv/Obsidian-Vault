@@ -1,2 +1,3 @@
+#theory
 
 [[Self-balancing BST]]
