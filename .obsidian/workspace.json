@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5085258483887
+    "width": 267.5085258483887
   },
   "right": {
     "id": "891422a13b890256",
@@ -85,34 +85,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2159bb62abfcae67",
+            "id": "2118dea021dbdc84",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "79b7723a2473f41a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -148,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,26 +136,28 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "652121761530708a",
   "lastOpenFiles": [
-    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Doubt.md",
+    "Daily Notes/24-06-2025.md",
     "Daily Notes/25-06-2025.md",
+    "Daily Notes/23-06-2025.md",
+    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Project Management.md",
+    "Emergent Notes/Rod cutting.md",
     "Emergent Notes/Information Security.md",
     "Emergent Notes/Cybersecurity.md",
     "Emergent Notes/Cyber attacks.md",
-    "Emergent Notes/Doubt.md",
     "Emergent Notes/Edge AI.md",
-    "Daily Notes/24-06-2025.md",
-    "Daily Notes/23-06-2025.md",
     "Emergent Notes/Notion.md",
     "Emergent Notes/ChatGPT.md",
     "Emergent Notes/AI.md",
     "Emergent Notes/Computer.md",
     "Emergent Notes/Network (computer).md",
-    "Emergent Notes/Project Management.md",
     "Emergent Notes/Network diagram.md",
     "Emergent Notes/Deep Learning.md",
     "Emergent Notes/Cost (project).md",
@@ -189,7 +169,6 @@
     "Emergent Notes/Multimodal Model.md",
     "Emergent Notes/Machine Learning.md",
     "Emergent Notes/AI Agent.md",
-    "sad.md",
     "Daily Notes",
     "Emergent Notes",
     "Daily Notes",
