@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "#computer",
@@ -32,14 +32,14 @@
       "query": "#psychology",
       "color": {
         "a": 1,
-        "rgb": 11752160
+        "rgb": 14638542
       }
     },
     {
       "query": "#compass",
       "color": {
         "a": 1,
-        "rgb": 4641467
+        "rgb": 5431473
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5146821645738504,
+  "scale": 0.5287576989491101,
   "close": true
 }
