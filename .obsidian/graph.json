@@ -32,18 +32,11 @@
       "query": "#system",
       "color": {
         "a": 1,
-        "rgb": 8483821
-      }
-    },
-    {
-      "query": "#network",
-      "color": {
-        "a": 1,
         "rgb": 5151727
       }
     },
     {
-      "query": "#ai",
+      "query": "#application",
       "color": {
         "a": 1,
         "rgb": 15238725
@@ -67,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4505081414307696,
+  "scale": 0.45050814143076984,
   "close": true
 }

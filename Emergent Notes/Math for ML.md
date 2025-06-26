@@ -1,4 +1,4 @@
-#ai 
+#application 
 
 [[Probability & Statistics]]
 [[Linear Algebra]]

@@ -1,4 +1,4 @@
-#ai
+#application
 
 A mind-blowing tool, and I don't remember now how I got to know and started using it, but it was in late 2023, when I just entered university not for so long.
 

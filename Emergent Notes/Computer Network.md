@@ -1,4 +1,4 @@
-#network 
+#system
 
 Computer network is a system consists of two or more electronic devices, connected to others to share resources, data and to communicate through protocols.
 	PAN (Personal): few meters

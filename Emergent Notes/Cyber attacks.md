@@ -1,4 +1,4 @@
-#network
+#application
 
 Weakness: a bug or defect in the system
 Vulnerability: a weakness that can be exploited

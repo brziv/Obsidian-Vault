@@ -1,4 +1,4 @@
-#ai 
+#application 
 
 [[Clustering]]
 [[Dimensionality Reduction]]

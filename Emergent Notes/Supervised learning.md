@@ -1,4 +1,4 @@
-#ai 
+#application 
 
 [[Classification]]
 [[Regression]]

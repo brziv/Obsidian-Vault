@@ -1,0 +1,4 @@
+#application
+
+[[AI]]
+[[Cybersecurity]]

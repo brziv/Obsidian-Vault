@@ -1,4 +1,4 @@
-#network 
+#system
 
 A [[Computer Network]] of physical objects (everywhere from household to industry), which actually refer to the embedded systems inside them with technologies that enable them to connect and exchange data with other devices.
 

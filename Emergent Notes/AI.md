@@ -1,4 +1,4 @@
-#ai
+#application
 
 This term refers to any act that tries to give machines, or computers, the ability to do tasks that previously only human can do, which means giving them the "intelligence".
 
