@@ -8,6 +8,13 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "#bridge",
+      "color": {
+        "a": 1,
+        "rgb": 7561727
+      }
+    },
+    {
       "query": "#theory",
       "color": {
         "a": 1,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45050814143076984,
+  "scale": 0.5359795807813692,
   "close": true
 }

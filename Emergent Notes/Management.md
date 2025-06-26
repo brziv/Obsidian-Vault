@@ -1,4 +1,4 @@
 #management
 
 [[Project Management]]
-[[Time management]]
+[[Time (personal)]]
