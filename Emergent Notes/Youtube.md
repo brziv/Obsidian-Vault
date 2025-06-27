@@ -8,4 +8,5 @@ Now, it is the place for me to learn from the most brilliant, or the more suitab
 
 Not only that, it is also an amazing place to relax my mind listening to calm and charming voice from girls all around the world, listening to music, watching people play games, and other types of content that are so vast to mention.
 
+[[Veritasium]]
 [[Obsidian]]

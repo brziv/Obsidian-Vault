@@ -5,5 +5,5 @@
 [[Doubt]]
 [[Ego]]
 [[Procrastination]]
-[[Sleep]]
 [[Sunk cost fallacy]]
+

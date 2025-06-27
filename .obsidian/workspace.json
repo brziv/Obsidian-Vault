@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e87ec0aeb00fca03",
+        "id": "7e22966817f8fc0b",
         "type": "tabs",
         "children": [
           {
-            "id": "64b2e450c2a271f0",
+            "id": "4f0e2e560371b462",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -171,8 +171,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64b2e450c2a271f0",
+  "active": "4f0e2e560371b462",
   "lastOpenFiles": [
+    "Emergent Notes/Computer Graphics.md",
+    "Emergent Notes/Application.md",
+    "Emergent Notes/Veritasium.md",
+    "Emergent Notes/Youtube.md",
+    "Emergent Notes/Ego.md",
+    "Emergent Notes/Cognitive rigidity.md",
+    "Emergent Notes/Cognitive flexibility.md",
+    "Emergent Notes/Doubt.md",
+    "Emergent Notes/Procrastination.md",
+    "Emergent Notes/Psychology.md",
     "Emergent Notes/Semiconductor.md",
     "Emergent Notes/Solid-state lighting.md",
     "Emergent Notes/Lighting.md",
@@ -180,7 +190,6 @@
     "Emergent Notes/Computer Network.md",
     "Emergent Notes/Sleep.md",
     "Emergent Notes/Transistor.md",
-    "Emergent Notes/Youtube.md",
     "Emergent Notes/Obsidian.md",
     "Emergent Notes/Notion.md",
     "Daily Notes/Daily.md",
@@ -190,15 +199,6 @@
     "Daily Notes/23-06-2025.md",
     "Daily Notes/22-06-2025.md",
     "Emergent Notes/Time (personal).md",
-    "Emergent Notes/Logic gates.md",
-    "Emergent Notes/Processor.md",
-    "Emergent Notes/ISA.md",
-    "Emergent Notes/Computer Architecture.md",
-    "Emergent Notes/Cyber attacks.md",
-    "Emergent Notes/Dimensionality Reduction.md",
-    "Emergent Notes/Information Security.md",
-    "Emergent Notes/Computer systems.md",
-    "Emergent Notes/P2P.md",
     "Untitled.canvas",
     "Daily Notes",
     "Emergent Notes",
