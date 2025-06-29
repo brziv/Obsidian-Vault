@@ -22,7 +22,7 @@ Links thermodynamic entropy with Shannon entropy, showing how unpredictability r
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=8lhxIOAfDss)  
 🧠 **Subfield:** Algorithms  
 📝 **Summary:**  
-Covers Euclid’s algorithm for computing the greatest common divisor (GCD), laying the groundwork for modern algorithmic thought and recursion.  
+Covers Fourier Transform and its variants for breaking complex functions into sum of smaller wave functions, laying the groundwork for modern algorithmic thought and recursion.  
 ⏱️ **Timestamps:** 0:30–1:20, 3:00–4:10
 
 ---
@@ -42,15 +42,6 @@ Describes the Kuramoto model and synchronization in networks — concepts relate
 📝 **Summary:**  
 Explores pseudorandomness vs true randomness and their impact on computational predictability, encryption, and simulations.  
 ⏱️ **Timestamps:** 2:30–3:15, 4:30–5:00
-
----
-
-### The Control Room of the Brain?  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=7ImvlS8PLIo)  
-🧠 **Subfield:** Control Systems / Robotics  
-📝 **Summary:**  
-Draws a parallel between brain feedback loops and control algorithms in engineered systems (PID control, system regulation).  
-⏱️ **Timestamps:** 2:00–3:00, 4:00–5:00
 
 ---
 
@@ -80,13 +71,6 @@ Examines time symmetry and how quantum algorithms like Grover’s exploit revers
 ⏱️ **Timestamps:** 4:00–5:30, 6:10–7:20
 
 ---
-
-### The Illusion of Truth  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=4MPHbpmP6_I)  
-🧠 **Subfield:** Cognitive Algorithms / Complexity  
-📝 **Summary:**  
-Describes how repeated information reinforces belief — linked to the brain's pattern-matching algorithms and cognitive biases in ML.  
-⏱️ **Timestamps:** 3:10–4:00, 5:20–6:30
 
 ### Something Strange Happens When You Trust Quantum Mechanics  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=p-MNSLsjjdo)  
@@ -130,15 +114,6 @@ Includes set theory, logic, computability, and graph theory — all key foundati
 📝 **Summary:**  
 Covers real-time signal transformation — encoding waveforms into optical pulses, showing real-world analog-to-digital conversion.  
 ⏱️ **Timestamps:** 2:00–3:10, 5:30–6:45
-
----
-
-### The Paradox of Choice  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=VO6XEQIsCoM)  
-🧠 **Subfield:** Human–Computer Interaction / Decision Theory  
-📝 **Summary:**  
-Explores how excess options reduce usability and increase decision time — key for UI/UX design and cognitive load models.  
-⏱️ **Timestamps:** 1:15–2:45, 4:10–5:30
 
 ---
 
@@ -195,24 +170,6 @@ Touches on utility functions and tradeoffs — the same principles used in AI ag
 
 ---
 
-### How To Survive a Free Fall From Space  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=E43-CfukEgs)  
-🧠 **Subfield:** Control Systems / Simulation  
-📝 **Summary:**  
-Analyzes descent profiles, atmospheric drag, and stabilization — modeled using the same numerical methods used in physics engines.  
-⏱️ **Timestamps:** 4:00–5:00, 6:30–7:15
-
----
-
-### Why Machines That Bend Are Better  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=0qvZa3g4d2c)  
-🧠 **Subfield:** Robotics / Soft Computing  
-📝 **Summary:**  
-Compares rigid vs flexible robotics, discussing adaptive algorithms, feedback delay, and non-linear control architectures.  
-⏱️ **Timestamps:** 2:45–4:15, 5:30–6:30
-
----
-
 ### How to See the Invisible  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=vppbdfXOa8E)  
 🧠 **Subfield:** Signal Processing / Imaging Algorithms  
@@ -237,15 +194,6 @@ Estimates the bandwidth of the human visual system in bits per second, comparing
 📝 **Summary:**  
 Introduces set-theoretic paradoxes relevant to computability, infinite algorithms, and axiomatic systems.  
 ⏱️ **Timestamps:** 3:15–4:30, 5:00–6:00
-
----
-
-### The Science of Thinking  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=UBVV8pch1dM)  
-🧠 **Subfield:** Cognitive Algorithms / Psychology & AI  
-📝 **Summary:**  
-Explores heuristics, biases, and algorithmic shortcuts our brains use — foundational for both neuroscience and artificial intelligence.  
-⏱️ **Timestamps:** 2:30–4:00, 5:45–6:50
 
 ---
 
@@ -274,24 +222,6 @@ Explores EEG signal decoding and electrical muscle stimulation — key technolog
 
 ---
 
-### The Most Efficient Way to Heat a Pool (or Anything Else)  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=3ny83gG3YgQ)  
-🧠 **Subfield:** Thermodynamics / Computational Efficiency  
-📝 **Summary:**  
-Optimizes real-world energy usage using algorithmic thinking — constrained systems, loss minimization, and tradeoffs.  
-⏱️ **Timestamps:** 3:10–4:45, 6:20–7:10
-
----
-
-### How Hard Is It To Land On a Moving Target?  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=H8X04NqjE8Q)  
-🧠 **Subfield:** Robotics / Trajectory Planning  
-📝 **Summary:**  
-Analyzes control challenges, error margins, and prediction algorithms in intercepting moving platforms — like SpaceX booster recovery.  
-⏱️ **Timestamps:** 2:30–4:00, 6:00–7:30
-
----
-
 ### This Equation Will Change How You See the World (Bayes)  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=HZGCoVF3YvM)  
 🧠 **Subfield:** Bayesian Inference / Machine Learning  
@@ -307,15 +237,6 @@ Explains Bayes’ Theorem with examples — the foundation of probabilistic mode
 📝 **Summary:**  
 Questions simultaneity and signal delay — relevant in distributed systems where time-sync is non-trivial (NTP, GPS).  
 ⏱️ **Timestamps:** 3:30–5:00, 6:15–7:30
-
----
-
-### Could You Fend Off a Bear with Physics?  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=9Wc-1N5k-bI)  
-🧠 **Subfield:** Simulation / Game Physics  
-📝 **Summary:**  
-Uses force modeling and real-time reaction simulation — an analogy to physics engines in computational environments.  
-⏱️ **Timestamps:** 4:00–5:20, 6:30–7:15
 
 ---
 
@@ -344,15 +265,6 @@ Discusses information limits, measurement theory, and implications for data in q
 Demonstrates gyroscopic instability — key for physics simulators, robotics, and feedback loops.  
 ⏱️ **Timestamps:** 3:00–4:10, 6:00–7:00
 
----
-
-### The Arrow of Time  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=td3KWW2un0A)  
-🧠 **Subfield:** Thermodynamics / Computational Irreversibility  
-📝 **Summary:**  
-Explores how entropy defines time direction — connected to irreversible computation and heat dissipation in circuits.  
-⏱️ **Timestamps:** 4:30–5:40, 6:50–7:30
-
 ### The Infinite Pattern That Never Repeats  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=48sCx-wBs34)  
 🧠 **Subfield:** Algorithms / Tiling Theory  
@@ -380,39 +292,12 @@ Analyzes how signal distortion, cognitive noise, and reinforcement affect percep
 
 ---
 
-### The Illusion of Knowledge  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=p5LRdW8xw70)  
-🧠 **Subfield:** Human-Computer Interaction / Interface Design  
-📝 **Summary:**  
-Demonstrates overconfidence bias and why user interfaces must be designed to reveal hidden system states and uncertainty.  
-⏱️ **Timestamps:** 2:30–3:30, 5:10–6:00
-
----
-
-### The Real Reason Planes Fly  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=Gg0TXNXgz-w)  
-🧠 **Subfield:** Simulation / Physics Engines  
-📝 **Summary:**  
-Explains fluid simulation and feedback dynamics — techniques used in CFD software and physical simulators.  
-⏱️ **Timestamps:** 1:30–3:10, 6:00–7:10
-
----
-
 ### Why Machines Lie  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=cf5FzP2VIEA)  
 🧠 **Subfield:** AI Ethics / Trustworthy AI  
 📝 **Summary:**  
 Discusses optimization misalignment, where systems pursue metrics in unintended ways — a core concern in AI safety.  
 ⏱️ **Timestamps:** 2:10–3:20, 5:00–6:00
-
----
-
-### How Memory Works  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=KWYlxlLAm8k)  
-🧠 **Subfield:** Computational Neuroscience / Memory Models  
-📝 **Summary:**  
-Describes memory encoding and retrieval — closely tied to associative memory in neural networks and cognitive architectures.  
-⏱️ **Timestamps:** 1:40–3:00, 4:30–5:45
 
 ---
 
@@ -459,15 +344,6 @@ Demonstrates the Dzhanibekov effect — used in physics-based simulations and co
 
 ---
 
-### The Science of Thinking  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=UBVV8pch1dM)  
-🧠 **Subfield:** Cognitive Science / AI  
-📝 **Summary:**  
-Describes bounded rationality, heuristics, and memory models — all foundational to artificial intelligence and decision systems.  
-⏱️ **Timestamps:** 2:00–3:10, 4:30–6:00
-
----
-
 ### Why We Get Misled by Coincidences  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=fm0T7_SGee4)  
 🧠 **Subfield:** Probability / Statistical Inference  
@@ -495,15 +371,6 @@ Estimates effective resolution of biological vision, comparing it to sensor arra
 
 ---
 
-### How Much Stuff is There in the Universe?  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=JUsIw8Z1Gts)  
-🧠 **Subfield:** Information Theory / Cosmological Computation  
-📝 **Summary:**  
-Considers information capacity of the universe and entropy limits — speculation tied to quantum information and physics of computation.  
-⏱️ **Timestamps:** 2:00–3:30, 4:40–5:40
-
----
-
 ### How Algorithms Shape Our World  
 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=0I-cx2lZsEY)  
 🧠 **Subfield:** Algorithmic Bias / Social Computing  
@@ -519,12 +386,3 @@ Analyzes feedback loops in recommender systems, optimization distortion, and eme
 📝 **Summary:**  
 Shows how origami constraints can be modeled algorithmically — leading to efficient folding techniques in space and robotics.  
 ⏱️ **Timestamps:** 1:45–3:10, 4:20–5:30
-
----
-
-### Can You Really Focus With Music?  
-🔗 [Watch on YouTube](https://www.youtube.com/watch?v=hWcOrZM3Kv8)  
-🧠 **Subfield:** Human–Computer Interaction / Attention Modeling  
-📝 **Summary:**  
-Explores how cognitive load interacts with sensory input — applicable to interface design and distraction-aware computing.  
-⏱️ **Timestamps:** 2:30–3:45, 5:00–6:10
