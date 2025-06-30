@@ -1,4 +1,4 @@
-#management 
+#business 
 
 Includes the processes required to ensure that only and all the work required for the project is included, so that we can complete the project successfully.
 	Product scope: features, functions

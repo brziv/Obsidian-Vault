@@ -1,3 +1,2 @@
-#finance
+#business 
 
-[[Money]]

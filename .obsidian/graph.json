@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "#management",
+      "query": "#business",
       "color": {
         "a": 1,
         "rgb": 5753796
@@ -48,13 +48,6 @@
         "a": 1,
         "rgb": 15238725
       }
-    },
-    {
-      "query": "#finance",
-      "color": {
-        "a": 1,
-        "rgb": 1354014
-      }
     }
   ],
   "collapse-display": true,
@@ -67,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6050039318160911,
+  "scale": 0.38556822844632105,
   "close": true
 }

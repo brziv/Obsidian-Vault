@@ -1,4 +1,4 @@
-#management 
+#business 
 
 Plan schedule management
 Define activities:

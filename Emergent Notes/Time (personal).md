@@ -1,4 +1,4 @@
-#management 
+#business 
 
 I often get stuck in long, exhausting debugging sessions, even when I know I should stop.
 	I start without a good plan

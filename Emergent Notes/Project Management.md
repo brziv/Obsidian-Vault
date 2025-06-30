@@ -1,4 +1,4 @@
-#management
+#business
 
 According to the PMI, a project is defined as a temporary endeavor to create a unique product or result. In other words, it is an attempt with a defined beginning and end, and with a goal in mind.
 	"Try to achieve something in a period of time" - Me

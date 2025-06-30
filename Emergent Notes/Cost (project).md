@@ -1,4 +1,4 @@
-#management 
+#business 
 
 Cost estimation
 	Activity list
