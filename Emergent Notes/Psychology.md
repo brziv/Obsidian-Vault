@@ -7,4 +7,4 @@
 [[Procrastination]]
 [[Sunk cost fallacy]]
 [[Maturity paradox]]
-
+[[Self-awareness]]

@@ -8,6 +8,3 @@ We force study, disciplines on them, and ideally, they should be given freedom a
 [[Illusion of understanding]]
 [[Paradox of choice]]
 [[Dual process theory]]
-
-
-
