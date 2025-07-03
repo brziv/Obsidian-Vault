@@ -16,30 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "44d2b098314579db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Daily.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily"
-            }
           }
         ]
       }
@@ -197,32 +173,32 @@
   },
   "active": "4f0e2e560371b462",
   "lastOpenFiles": [
+    "Emergent Notes/Veritasium.md",
+    "Emergent Notes/Cryptography.md",
+    "Emergent Notes/Psychology.md",
+    "Emergent Notes/Self-awareness.md",
+    "Emergent Notes/Expert.md",
+    "Emergent Notes/Thinking.md",
+    "Emergent Notes/Cloud Computing.md",
+    "Emergent Notes/ChatGPT.md",
+    "Emergent Notes/Synchronization.md",
+    "Daily Notes/Reminder.md",
+    "Daily Notes/30-06-2025.md",
+    "Daily Notes/Daily.md",
     "Emergent Notes/Doubt.md",
     "Emergent Notes/Intuition.md",
     "Emergent Notes/Emotion regulation.md",
     "Emergent Notes/Feeling.md",
     "Emergent Notes/Interoception.md",
-    "Daily Notes/Daily.md",
-    "Daily Notes/30-06-2025.md",
     "Daily Notes/29-06-2025.md",
-    "Daily Notes/Reminder.md",
-    "Emergent Notes/Veritasium.md",
     "Emergent Notes/Untitled.md",
     "Emergent Notes/Complexity theory.md",
     "Emergent Notes/Quantum computing.md",
-    "Emergent Notes/Cryptography.md",
     "Emergent Notes/Cybersecurity.md",
     "Emergent Notes/Theory.md",
     "Emergent Notes/Information theory.md",
     "Emergent Notes/Dual process theory.md",
-    "Emergent Notes/Psychology.md",
-    "Emergent Notes/Self-awareness.md",
     "Emergent Notes/Maturity paradox.md",
-    "Emergent Notes/Illusion of understanding.md",
-    "Emergent Notes/Paradox of choice.md",
-    "Emergent Notes/Lighting.md",
-    "Emergent Notes/Dunning-Kruger effect.md",
-    "Emergent Notes/Finance.md",
     "Untitled.canvas",
     "Daily Notes",
     "Emergent Notes",

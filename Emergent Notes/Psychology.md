@@ -8,3 +8,5 @@
 [[Sunk cost fallacy]]
 [[Maturity paradox]]
 [[Self-awareness]]
+[[Expert]]
+[[Thinking]]
