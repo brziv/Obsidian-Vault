@@ -9,4 +9,3 @@
 [[Maturity paradox]]
 [[Self-awareness]]
 [[Expert]]
-[[Thinking]]

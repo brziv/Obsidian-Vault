@@ -11,14 +11,14 @@
       "query": "#bridge",
       "color": {
         "a": 1,
-        "rgb": 7561727
+        "rgb": 10312959
       }
     },
     {
-      "query": "#theory",
+      "query": "#application",
       "color": {
         "a": 1,
-        "rgb": 14147666
+        "rgb": 15238725
       }
     },
     {
@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "#psychology",
-      "color": {
-        "a": 1,
-        "rgb": 14638542
-      }
-    },
-    {
       "query": "#system",
       "color": {
         "a": 1,
@@ -43,10 +36,31 @@
       }
     },
     {
-      "query": "#application",
+      "query": "#theory",
       "color": {
         "a": 1,
-        "rgb": 15238725
+        "rgb": 14147666
+      }
+    },
+    {
+      "query": "#psychology",
+      "color": {
+        "a": 1,
+        "rgb": 14638542
+      }
+    },
+    {
+      "query": "#physics",
+      "color": {
+        "a": 1,
+        "rgb": 6057983
+      }
+    },
+    {
+      "query": "#philosophy",
+      "color": {
+        "a": 1,
+        "rgb": 14770285
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7069026355700428,
+  "scale": 0.45050814143077245,
   "close": true
 }

@@ -1,4 +1,4 @@
-#system 
+#physics
 
 - Incandescent light: heating till glowing (Tungsten - Wolfram), insufficient, short lifespan
 - Gas discharge light: electric current excites gas atoms

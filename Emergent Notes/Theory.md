@@ -13,4 +13,3 @@ This foundation is built upon several other critical foundations, especially Mat
 [[Data Structure]]
 [[Information theory]]
 [[Complexity theory]]
-

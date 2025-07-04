@@ -1,4 +1,4 @@
-#system 
+#physics
 
 Light emissions from solid [[Semiconductor]]
 	LED: high efficiency, compact, long lifespan. Blue LED has an exciting story behind.
@@ -6,5 +6,3 @@ Light emissions from solid [[Semiconductor]]
 	Laser diode: used in fiber optics
 
 [[Lighting]]
-
-
