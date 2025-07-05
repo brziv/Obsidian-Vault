@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.50852584838867
+    "width": 200
   },
   "right": {
     "id": "891422a13b890256",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,6 +173,8 @@
   },
   "active": "e8cc6e217a53f236",
   "lastOpenFiles": [
+    "Emergent Notes/RAG.md",
+    "Emergent Notes/LLM.md",
     "Emergent Notes/Linear Algebra.md",
     "Emergent Notes/Information.md",
     "Daily Notes/04-07-2025.md",
@@ -197,8 +199,6 @@
     "Daily Notes/28-06-2025.md",
     "Daily Notes/27-06-2025.md",
     "Daily Notes/26-06-2025.md",
-    "Daily Notes/25-06-2025.md",
-    "Daily Notes/24-06-2025.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",
