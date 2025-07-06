@@ -2,5 +2,4 @@
 
 [[AI]]
 [[Cybersecurity]]
-[[Computer Graphics]]
-
+Computer Graphics

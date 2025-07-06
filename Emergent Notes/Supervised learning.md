@@ -1,4 +1,4 @@
 #application 
 
-[[Classification]]
-[[Regression]]
+Classification
+Regression

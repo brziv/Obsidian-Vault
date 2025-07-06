@@ -1,5 +1,5 @@
 #application 
 
-[[Clustering]]
-[[Dimensionality Reduction]]
-[[Association]]
+Clustering
+Dimensionality Reduction
+Association

@@ -11,10 +11,24 @@
             "id": "e8cc6e217a53f236",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Notes/Object detection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Object detection"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.50852584838867
   },
   "right": {
     "id": "891422a13b890256",
@@ -173,32 +187,32 @@
   },
   "active": "e8cc6e217a53f236",
   "lastOpenFiles": [
-    "Emergent Notes/RAG.md",
+    "Emergent Notes/Object detection.md",
+    "Emergent Notes/Semiconductor.md",
+    "Emergent Notes/AI Journey.md",
+    "Emergent Notes/AI.md",
+    "Emergent Notes/Application.md",
+    "Emergent Notes/OSI Model.md",
+    "Emergent Notes/Machine Learning.md",
+    "Emergent Notes/Deep Learning.md",
+    "Emergent Notes/Math for ML.md",
+    "Emergent Notes/Reinforcement learning.md",
+    "Emergent Notes/Unsupervised learning.md",
+    "Emergent Notes/Dimensionality Reduction.md",
+    "Emergent Notes/Clustering.md",
+    "Emergent Notes/Association.md",
+    "Emergent Notes/Supervised learning.md",
+    "Emergent Notes/Regression.md",
+    "Emergent Notes/Classification.md",
+    "Emergent Notes/Computer Vision.md",
     "Emergent Notes/LLM.md",
-    "Emergent Notes/Linear Algebra.md",
-    "Emergent Notes/Information.md",
-    "Daily Notes/04-07-2025.md",
-    "Daily Notes/Daily.md",
-    "Emergent Notes/Project Management.md",
-    "Emergent Notes/Procrastination.md",
-    "Emergent Notes/Psychology.md",
-    "Emergent Notes/Maturity paradox.md",
-    "Emergent Notes/Dual process theory.md",
-    "Emergent Notes/Thinking.md",
+    "Emergent Notes/RAG.md",
+    "Emergent Notes/NLP.md",
+    "Daily Notes/Mental check.md",
     "Emergent Notes/Veritasium.md",
-    "Emergent Notes/Fourier transform.md",
-    "Emergent Notes/Lighting.md",
-    "Emergent Notes/Illusion of understanding.md",
-    "Emergent Notes/IOED.md",
-    "Emergent Notes/Entropy.md",
-    "Emergent Notes/Parallel postulate.md",
+    "Emergent Notes/Cryptography.md",
     "Emergent Notes/Thermodynamics.md",
-    "Daily Notes/Reminder.md",
-    "Daily Notes/30-06-2025.md",
-    "Daily Notes/29-06-2025.md",
-    "Daily Notes/28-06-2025.md",
-    "Daily Notes/27-06-2025.md",
-    "Daily Notes/26-06-2025.md",
+    "Emergent Notes/Fourier transform.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",
