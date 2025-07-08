@@ -1,3 +1,0 @@
-#theory 
-
-[[Binary search tree]]
