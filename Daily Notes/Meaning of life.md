@@ -1,4 +1,5 @@
 #daily 
+[[Daily]]
 
 In 1961, Edward Lorenz ran a weather model - a system of equations on a computer. He found that even with very slight changes in the initial conditions, the system diverged drastically.
 	This changed our understanding since Newton, as the world is now seen as unpredictable, yet still shows some kinds of structure.

@@ -1,4 +1,5 @@
 #daily 
+[[Daily]]
 
 Thought: wait some seconds, write down if it persist
 	You are worth my attention if you stay with me.

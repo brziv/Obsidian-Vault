@@ -1,5 +1,7 @@
 #application 
 
+[[Cross product]]
+
 Vector: arrow inside data space with position, direction
 	List of numbers
 	-> input, features, parameters (weights)
@@ -22,16 +24,3 @@ Linear system: Ax = b
 Transpose: switch perspectives
 	Switch rows with columns
 	-> look at space from a different view
-
-Rank: 
-
-Null space: 
-
-Eigenvector: 
-	Eigenvalue: 
-
-SVD
-
-Projection
-
-Tensor

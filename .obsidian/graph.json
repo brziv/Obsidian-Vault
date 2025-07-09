@@ -55,13 +55,6 @@
         "a": 1,
         "rgb": 6057983
       }
-    },
-    {
-      "query": "#philosophy",
-      "color": {
-        "a": 1,
-        "rgb": 14770285
-      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7069026355700428,
+  "scale": 0.8178537850196208,
   "close": true
 }

@@ -1,4 +1,5 @@
 #daily 
+[[Daily]]
 
 I imagine reality as a sphere. Not a normal one though. The core and the periphery are unknown.
 	By going deep into the core, we can access the surface by moving outwards.
