@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f88113ded2b848ab",
+        "id": "8924870d1c71e870",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2caeb11a40239d",
+            "id": "a6041bd8b9b1fba3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Notes/Internet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Internet"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -172,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea2caeb11a40239d",
+  "active": "a6041bd8b9b1fba3",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Emergent Notes/Internet.md",
-    "Emergent Notes/OSI Model.md",
     "Daily Notes/Modeling reality - zeroth.md",
+    "Emergent Notes/Rod cutting.md",
+    "Emergent Notes/OSI Model.md",
     "Emergent Notes/Transistor.md",
     "Emergent Notes/Time (project).md",
     "Daily Notes/22-06-2025.md",
@@ -211,12 +199,9 @@
     "Emergent Notes/Client-server.md",
     "Emergent Notes/Red-black tree.md",
     "Emergent Notes/Graham scan.md",
-    "Emergent Notes/Cross product.md",
-    "Emergent Notes/Binary search tree.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",
-    "Untitled.canvas",
     "Daily Notes",
     "Emergent Notes",
     "Daily Notes",
