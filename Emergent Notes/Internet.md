@@ -7,7 +7,7 @@ Hardware and software components:
 	.
 	Communication link: coaxial cable, copper wire, optical fiber, radio spectrum
 	.
-	Packet switch: router, link-layered switch
+	[[Packet switch]]: router, link-layered switch
 		Analogy:
 			Packet - truck, data - cargo
 			Comlink - highway, packet switch - intersection

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent Notes/Solar system.md",
+                "file": "Emergent Notes/Internet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Solar system"
+              "title": "Internet"
             }
           }
         ]
@@ -187,10 +187,13 @@
   },
   "active": "fda08a93a1c0d9ad",
   "lastOpenFiles": [
+    "Emergent Notes/Computer Network.md",
+    "Emergent Notes/Network history.md",
+    "Emergent Notes/Internet.md",
+    "Emergent Notes/Packet switch.md",
     "Emergent Notes/Solar system.md",
     "Emergent Notes/Computer Graphics.md",
     "Untitled.canvas",
-    "Emergent Notes/Internet.md",
     "Daily Notes/Modeling reality - zeroth.md",
     "Emergent Notes/Rod cutting.md",
     "Emergent Notes/OSI Model.md",
@@ -208,12 +211,9 @@
     "Daily Notes/23-06-2025.md",
     "Daily Notes/Daily.md",
     "Emergent Notes/IoT.md",
-    "Emergent Notes/Computer Network.md",
     "Emergent Notes/Cloud Computing.md",
     "Emergent Notes/VPN.md",
     "Emergent Notes/P2P.md",
-    "Emergent Notes/Client-server.md",
-    "Emergent Notes/Red-black tree.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",
