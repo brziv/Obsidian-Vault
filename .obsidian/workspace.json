@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8924870d1c71e870",
+        "id": "1d74d1bce870e3a3",
         "type": "tabs",
         "children": [
           {
-            "id": "a6041bd8b9b1fba3",
+            "id": "fda08a93a1c0d9ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Notes/Solar system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Solar system"
             }
           }
         ]
@@ -171,8 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6041bd8b9b1fba3",
+  "active": "fda08a93a1c0d9ad",
   "lastOpenFiles": [
+    "Emergent Notes/Solar system.md",
+    "Emergent Notes/Computer Graphics.md",
     "Untitled.canvas",
     "Emergent Notes/Internet.md",
     "Daily Notes/Modeling reality - zeroth.md",
@@ -198,7 +214,6 @@
     "Emergent Notes/P2P.md",
     "Emergent Notes/Client-server.md",
     "Emergent Notes/Red-black tree.md",
-    "Emergent Notes/Graham scan.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",
