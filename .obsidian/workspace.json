@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent Notes/Internet.md",
+                "file": "Emergent Notes/Algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internet"
+              "title": "Algorithm"
             }
           }
         ]
@@ -187,18 +187,25 @@
   },
   "active": "fda08a93a1c0d9ad",
   "lastOpenFiles": [
-    "Emergent Notes/Computer Network.md",
-    "Emergent Notes/Network history.md",
-    "Emergent Notes/Internet.md",
-    "Emergent Notes/Packet switch.md",
+    "Emergent Notes/Graham scan.md",
+    "Emergent Notes/Algorithm.md",
+    "Emergent Notes/Project Management.md",
+    "Emergent Notes/Time (project).md",
+    "Emergent Notes/PERT distribution.md",
+    "Daily Notes/Modeling reality - zeroth.md",
+    "Emergent Notes/Cost (project).md",
+    "Emergent Notes/Virtualization.md",
+    "Emergent Notes/Cloud Computing.md",
+    "Emergent Notes/Time (personal).md",
     "Emergent Notes/Solar system.md",
+    "Emergent Notes/Packet switch.md",
+    "Emergent Notes/Network history.md",
     "Emergent Notes/Computer Graphics.md",
     "Untitled.canvas",
-    "Daily Notes/Modeling reality - zeroth.md",
+    "Emergent Notes/Internet.md",
     "Emergent Notes/Rod cutting.md",
     "Emergent Notes/OSI Model.md",
     "Emergent Notes/Transistor.md",
-    "Emergent Notes/Time (project).md",
     "Daily Notes/22-06-2025.md",
     "Daily Notes/A spherical reality.md",
     "Daily Notes/26-06-2025.md",
@@ -207,13 +214,6 @@
     "Daily Notes/29-06-2025.md",
     "Daily Notes/30-06-2025.md",
     "Daily Notes/25-06-2025.md",
-    "Daily Notes/24-06-2025.md",
-    "Daily Notes/23-06-2025.md",
-    "Daily Notes/Daily.md",
-    "Emergent Notes/IoT.md",
-    "Emergent Notes/Cloud Computing.md",
-    "Emergent Notes/VPN.md",
-    "Emergent Notes/P2P.md",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
     "Canvas",

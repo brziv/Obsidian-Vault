@@ -1,5 +1,7 @@
 #business 
 
+[[PERT distribution]]
+
 Plan schedule management
 Define activities:
 	Decomposition
@@ -40,7 +42,7 @@ Develop schedule:
 		Resource leveling: adjust dates based on constraints
 		Resource smoothing: optimize resource with unchanged end date
 		Monte Carlo simulation: quantitative risk analysis
-		Schedule compression:
+		! Schedule compression:
 			Crashing: add resources to reduce duration
 			Fast track: parallel overlapped activities
 		Output:
