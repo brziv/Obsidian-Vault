@@ -12,4 +12,4 @@ I imagine reality as a sphere. Not a normal one though. The core and the periphe
 Later, when mature enough, it's time for resonance, the echoes:
 	Computer science -> math, physics, philosophy, psychology
 	-> biology, economics
-		Complement health, emotion, conversation, relationship.
+		Remember health, emotion, conversation, relationship.

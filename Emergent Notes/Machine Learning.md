@@ -5,5 +5,4 @@ Machine Learning is the technique that allows computers to learn from data, inst
 [[Supervised learning]]
 [[Unsupervised learning]]
 [[Reinforcement learning]]
-[[Math for ML]]
 [[Deep Learning]]
