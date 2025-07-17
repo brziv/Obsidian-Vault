@@ -1,6 +1,6 @@
 #theory 
 
-Physics: an arrow with magnitude (length) and direction ->
+Physics: an arrow with magnitude (length) and direction `->`
 CS: a list of numbers `[num]`
 Math: an element of the vector space
 

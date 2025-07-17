@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d74d1bce870e3a3",
+        "id": "45b0a9956a07d628",
         "type": "tabs",
         "children": [
           {
-            "id": "fda08a93a1c0d9ad",
+            "id": "7187b7dd710872c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent Notes/Matrix.md",
+                "file": "Emergent Notes/System of linear equations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "System of linear equations"
             }
           }
         ]
@@ -185,34 +185,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fda08a93a1c0d9ad",
+  "active": "7187b7dd710872c0",
   "lastOpenFiles": [
-    "Daily Notes/Modeling reality - zeroth.md",
-    "Daily Notes/Meaning of life.md",
-    "Daily Notes/Learning anything.md",
-    "Emergent Notes/Matrix.md",
     "Emergent Notes/Linear Algebra.md",
     "Emergent Notes/Vector.md",
+    "Emergent Notes/System of linear equations.md",
+    "Emergent Notes/Determinant.md",
+    "Emergent Notes/Matrix.md",
+    "Emergent Notes/Math.md",
+    "Emergent Notes/Discrete Math.md",
+    "Visuals/2d_det.png",
+    "Emergent Notes/Untitled 1.md",
+    "Emergent Notes/Untitled.md",
+    "Visuals",
+    "Daily Notes/Meaning of life.md",
+    "Emergent Notes/Entropy.md",
+    "Emergent Notes/Algorithm.md",
+    "Emergent Notes/Thermodynamics.md",
+    "Emergent Notes/Internet.md",
+    "Daily Notes/Modeling reality - zeroth.md",
+    "Emergent Notes/Theory.md",
+    "Daily Notes/Learning anything.md",
+    "Daily Notes/A spherical reality.md",
     "Emergent Notes/Time (personal).md",
     "Emergent Notes/Quantum computing.md",
-    "Emergent Notes/Math.md",
-    "Emergent Notes/Theory.md",
     "Emergent Notes/Computational geometry.md",
     "Emergent Notes/Cybersecurity.md",
     "Emergent Notes/Data Structure.md",
     "Emergent Notes/Tree.md",
     "Emergent Notes/Multi-way search tree.md",
-    "Emergent Notes/B-tree.md",
-    "Emergent Notes/Binary search tree.md",
-    "Emergent Notes/Red-black tree.md",
-    "Emergent Notes/Information theory.md",
-    "Emergent Notes/Complexity theory.md",
-    "Daily Notes/A spherical reality.md",
-    "Daily Notes/Mental check.md",
-    "Daily Notes/22-06-2025.md",
-    "Emergent Notes/Solar system.md",
-    "Emergent Notes/Machine Learning.md",
-    "Emergent Notes/Math for ML.md",
     "Untitled.canvas",
     "Canvas/Information.canvas",
     "Emergent Notes/Information (Canvas).canvas",
