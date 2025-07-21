@@ -31,9 +31,15 @@ Intuition (for human):
 	b_1 \\ b_2 \\ b_3
 	\end{bmatrix}
 	$$
-		$\det\! \left( A \right) \neq 0$ :
-		.
-			$A^{-1} A \, x = A^{-1} \ v \Rightarrow x = A^{-1} \ b$ 
-		.
+		$\det\! \left( A \right) \neq 0$ : $A^{-1} A \, x = A^{-1} \ v \Rightarrow x = A^{-1} \ b$ 
+			Inverse matrix: reverse the effect
+				 $A^{-1} A$ = 1
 		$\det\! \left( A \right) = 0$ :
-			Rank: the output dimensions
+			Lower dimension, lose information
+				-> a function cannot recover -> no $A^{-1}$ 
+				Solution still exists if the vector land on the column space
+			Column space: span of the columns
+			-> Set of all possible outputs $A \, x$ -> image
+				Rank: number of dimensions in the column space
+				Full rank: rank = number of columns
+				Null space (kernel): set of vectors that land on the origin/zero vector

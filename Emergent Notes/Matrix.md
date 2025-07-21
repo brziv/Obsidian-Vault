@@ -4,7 +4,7 @@ Linear transformation:
 	Tranformation: function -> rule or mapping that assigns each input to exactly one output
 		Input: an element in a domain - set of all inputs defined
 		Output: an element in a codomain - set of all outputs possible from inputs
-			Image: subset of codomain - set of actual outputs from inputs
+			Image/range: subset of codomain - set of actual outputs from inputs
 	Linear:
 		All lines remain lines
 		Origin remains fixed

@@ -1,14 +1,20 @@
 #daily 
 [[Daily]]
 
-Mental maturity:
-	Visualizations and stories -> intuition
-	Long-term exposure -> pattern recognition
-	Self-awareness: cognition and emotion -> learning method
-		Lifestyle and habits that allow focus
-
 Time management:
-	Main focus: relevant topics in computer science
-		Study history, approaches, deep understanding
-		Practice with reproduction, reflection, writing, and teaching
-	Exploration: curiosity and random connections
+	Main focus: Computer Science
+		Methods, deep understanding
+		Practice, reflection, writing and teaching
+	Exploration: curiosity, connections
+
+Math:
+	Purpose: topics, concepts
+	Intuition: small, simple examples
+	Edge: counterexamples, explain
+	Patterns: rules, essence
+	Notation: compress, abstract
+	Generalization: power
+		Small builds intution
+		Diversity tests intuition
+		Notation compresses intuition
+		Abstract discards intuition

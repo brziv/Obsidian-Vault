@@ -8,15 +8,15 @@ Built on: First-order logic, ZFC set theory, Peano axioms, Turing machine
 		Proposition (`statement`), connective (`AND, OR, NOT`), quantifier (`∀, ∃`)
 		Truth table
 		-> proof, circuit, programming
-	Set theory: collection of objects and operations
+	[[Set]] theory: collection of objects and operations
 		Union (`∪`), intersection(`∩`), difference (`\`), complement (`¬`)
 		Cardinality, power set, Cartesian product
 		-> database
-	Relation and function:
+	[[Relation]] and [[Function]]:
 		Reflexive, symmetric, transitive
 		Injective, surjective, bijective
 		-> database, algorithm
-	Counting and combinatorics:
+	[[Counting]] and [[Combinatorics]]:
 		Permutation, combination, pigeonhole principle
 		-> probability, cryptography, algorithm
 	Graph and tree:
@@ -24,7 +24,7 @@ Built on: First-order logic, ZFC set theory, Peano axioms, Turing machine
 		-> network, data structure
 	Number theory:
 		GCD, LCM, prime number, modular arithmetic
-		-> cryptography, hashing
+		-> [[Cryptography]], hashing
 	Algorithm and complexity:
 		Big-O, Big-Ω, Big-Θ, recurrence relation
 		-> optimization

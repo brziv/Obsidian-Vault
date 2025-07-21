@@ -19,3 +19,4 @@ Entropy:
 	Entropy is the potential information
 
 [[Information]]
+[[Cryptography]]
