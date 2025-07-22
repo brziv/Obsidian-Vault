@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Linear Algebra"
             }
+          },
+          {
+            "id": "335b2f5f66b152bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Notes/Discrete Math.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Discrete Math"
+            }
           }
         ]
       }
@@ -187,33 +211,33 @@
   },
   "active": "7187b7dd710872c0",
   "lastOpenFiles": [
-    "Emergent Notes/Math.md",
+    "Emergent Notes/Cross product.md",
     "Emergent Notes/Linear Algebra.md",
     "Emergent Notes/Dot product.md",
-    "Emergent Notes/Cross product.md",
+    "Emergent Notes/Determinant.md",
     "Emergent Notes/Discrete Math.md",
-    "Emergent Notes/Cryptography.md",
-    "Emergent Notes/Combinatorics.md",
-    "Emergent Notes/Counting.md",
+    "Daily Notes/22-07-2025.md",
+    "Emergent Notes/Function.md",
+    "Emergent Notes/Morphism.md",
+    "Emergent Notes/Math.md",
     "Emergent Notes/Relation.md",
+    "Emergent Notes/Eigenvector.md",
+    "Emergent Notes/Change of basis.md",
+    "Emergent Notes/Cramer's rule.md",
+    "Emergent Notes/System of linear equations.md",
+    "Emergent Notes/Matrix.md",
+    "Emergent Notes/Vector.md",
+    "Emergent Notes/Diagonalization.md",
+    "Emergent Notes/Math foundation.md",
+    "Emergent Notes/Equivalence relation.md",
     "Emergent Notes/Set.md",
     "Emergent Notes/ZFC set theory.md",
     "Emergent Notes/Naive set theory.md",
-    "Emergent Notes/Function.md",
-    "Emergent Notes/Information theory.md",
-    "Emergent Notes/Information.md",
-    "Daily Notes/Learning anything.md",
-    "Emergent Notes/Determinant.md",
-    "Emergent Notes/System of linear equations.md",
-    "Emergent Notes/Duality.md",
-    "Emergent Notes/Matrix.md",
-    "Emergent Notes/Vector.md",
-    "Emergent Notes/AI.md",
-    "Emergent Notes/AI Journey.md",
-    "Emergent Notes/Object detection.md",
-    "Emergent Notes/Machine Learning.md",
+    "Emergent Notes/Untitled.md",
+    "Emergent Notes/Cryptography.md",
+    "Emergent Notes/Math madness.md",
+    "Emergent Notes/Counting.md",
     "Visuals/2d_det.png",
-    "Emergent Notes/Untitled 1.md",
     "Visuals",
     "Untitled.canvas",
     "Canvas/Information.canvas",

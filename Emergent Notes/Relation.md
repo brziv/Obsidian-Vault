@@ -1,7 +1,7 @@
 #theory 
 
-A **relation** $R$ on a set $A$ is a subset of $A \times A$.  
-We write $aRb$ if $(a,b) \in R$.
+A relation $R$ on a set $A$ is a subset of $A \times A$.  
+We write $a \, R \, b$  if  $(a,b) \in R$.
 
 #### Properties
 
@@ -22,3 +22,5 @@ We write $aRb$ if $(a,b) \in R$.
   \forall a,b,c \in A, \ (a,b) \in R \wedge (b,c) \in R \implies (a,c) \in R.
   $$
   Example: $\le$ on real numbers is transitive.
+
+[[Equivalence relation]]

@@ -2,11 +2,11 @@
 
 A **function** $f: A \to B$ is a special [[Relation]] between $A$ and $B$ such that  
 $$
-\forall a \in A, \ \exists! \ b \in B \ \text{with} \ (a,b) \in f.
+\forall \, a \in A, \ \exists \, ! \ b \in B \ \text{with} \ (a,b) \in f.
 $$
 Every input $a$ has exactly one output $b$.
 
-#### Types
+#### Properties
 
 - **Injective (One-to-one)**:  
   $$
@@ -16,7 +16,7 @@ Every input $a$ has exactly one output $b$.
 
 - **Surjective (Onto)**:  
   $$
-  \forall b \in B, \ \exists a \in A \ \text{such that} \ f(a) = b.
+  \forall \, b \in B, \ \exists \, a \in A \ \text{such that} \ f(a) = b.
   $$
   Every element of $B$ is "hit" by $f$.
 
@@ -24,3 +24,5 @@ Every input $a$ has exactly one output $b$.
   $f$ is both injective and surjective.  
   Every element of $B$ corresponds to exactly one element of $A$.  
   Bijective functions are invertible.
+
+[[Morphism]]

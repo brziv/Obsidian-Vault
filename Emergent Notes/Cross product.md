@@ -7,14 +7,12 @@ $$
 Scalar:
 $$
 \vec{u} \times \vec{v}
-= |u| \ |v| \ sin(\theta) 
+= \|u\| \ \|v\| \ sin(\theta) 
 = \det \left( \begin{bmatrix} a & c \\ b & d \end{bmatrix} \right)
+= ad -bc
 $$
-Signed area of the parallelogram
+	Signed area of the parallelogram
 
-Vector: $\vec{p} = \vec{u} \times \vec{v}$ 
-	Perpendicular to both $\vec{u}$ and $\vec{v}$ 
-	Length being the area of the parallelogram
 $$
 \mathbf{u}= \begin{bmatrix} a\\b\\c \end{bmatrix},\quad
 \mathbf{v}= \begin{bmatrix} d\\e\\f \end{bmatrix},\quad
@@ -43,6 +41,7 @@ b & e & h \\
 c & f & i
 \end{bmatrix}
 $$
+	Signed volume of the parallelepiped
 $$
 \mathbf{p} = \mathbf{v} \times \mathbf{w} =
 \begin{bmatrix}
@@ -51,4 +50,6 @@ fg - di \\
 dh - eg
 \end{bmatrix}
 $$
-
+	Vector: $\vec{p} = \vec{v} \times \vec{w}$ 
+		Perpendicular to both $\vec{v}$ and $\vec{w}$ 
+		Length being the area of the parallelogram
