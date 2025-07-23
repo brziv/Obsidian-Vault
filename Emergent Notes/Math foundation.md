@@ -21,13 +21,13 @@
 
 **Core Axioms**:
 
-| Tag    | Core Idea                                  | Why You Need It (What breaks if absent?) | Mnemonic         |
-|--------|--------------------------------------------|------------------------------------------|------------------|
-| Seed   | There exists 0.                            | No starting number.                      | “Start.”         |
-| Step   | Every number has a successor.              | Stops growth; no chain.                  | “Next.”          |
-| No-Back| 0 isn’t successor of any number.           | Looping back could collapse chain.       | “No wrap.”       |
-| Inject | Equal successors ⇒ equal predecessors.     | Prevents merging branches; keeps chain 1-way. | “Distinct stays distinct.” |
-| Induct | If a property holds for 0 and passes to successors, it holds for all. | Can’t prove general facts like `n+0=n`. | “Climb forever.” |
+| Tag     | Core Idea                                                             | Why You Need It (What breaks if absent?)      | Mnemonic                   |
+| ------- | --------------------------------------------------------------------- | --------------------------------------------- | -------------------------- |
+| Seed    | There exists 0.                                                       | No starting number.                           | “Start.”                   |
+| Step    | Every number has a successor.                                         | Stops growth; no chain.                       | “Next.”                    |
+| No-Back | 0 isn’t successor of any number.                                      | Looping back could collapse chain.            | “No wrap.”                 |
+| Inject  | Equal successors ⇒ equal predecessors.                                | Prevents merging branches; keeps chain 1-way. | “Distinct stays distinct.” |
+| Induct  | If a property holds for 0 and passes to successors, it holds for all. | Can’t prove general facts like `n+0=n`.       | “Climb forever.”           |
 
 ---
 ### 2. Hilbert’s axioms

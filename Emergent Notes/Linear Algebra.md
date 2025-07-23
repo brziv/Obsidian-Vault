@@ -9,6 +9,7 @@
 [[Cramer's rule]]
 [[Change of basis]]
 [[Eigenvector]]
+[[Vector space]]
 
 Linear algebra is not just computation—it’s **seeing the hidden structure of change**.  
 After walking through 3Blue1Brown’s journey, these truths remain like echoes:

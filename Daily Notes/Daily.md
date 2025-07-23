@@ -1,3 +1,6 @@
 #daily 
 
-Essentially a hub note.
+Curiosity is the soul.
+Consistency is the key.
+
+Dynamic optimization.

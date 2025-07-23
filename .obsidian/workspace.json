@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "35437b72c3a93cc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emergent Notes/Next steps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Next steps"
+            }
+          },
+          {
             "id": "7187b7dd710872c0",
             "type": "leaf",
             "state": {
@@ -209,17 +233,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7187b7dd710872c0",
+  "active": "35437b72c3a93cc2",
   "lastOpenFiles": [
-    "Emergent Notes/Cross product.md",
     "Emergent Notes/Linear Algebra.md",
-    "Emergent Notes/Dot product.md",
-    "Emergent Notes/Determinant.md",
     "Emergent Notes/Discrete Math.md",
-    "Daily Notes/22-07-2025.md",
+    "Emergent Notes/Next steps.md",
+    "Emergent Notes/Math.md",
+    "Daily Notes/Daily.md",
+    "Emergent Notes/Math foundation.md",
+    "Emergent Notes/Math madness.md",
+    "Emergent Notes/Vector space.md",
     "Emergent Notes/Function.md",
     "Emergent Notes/Morphism.md",
-    "Emergent Notes/Math.md",
+    "Emergent Notes/Set.md",
+    "Emergent Notes/ZF set theory.md",
+    "Daily Notes/22-07-2025.md",
+    "Daily Notes/Modeling reality.md",
+    "Daily Notes/A spherical reality.md",
+    "desktop.ini",
+    "Emergent Notes/Cross product.md",
+    "Emergent Notes/Dot product.md",
+    "Emergent Notes/Determinant.md",
     "Emergent Notes/Relation.md",
     "Emergent Notes/Eigenvector.md",
     "Emergent Notes/Change of basis.md",
@@ -228,15 +262,6 @@
     "Emergent Notes/Matrix.md",
     "Emergent Notes/Vector.md",
     "Emergent Notes/Diagonalization.md",
-    "Emergent Notes/Math foundation.md",
-    "Emergent Notes/Equivalence relation.md",
-    "Emergent Notes/Set.md",
-    "Emergent Notes/ZFC set theory.md",
-    "Emergent Notes/Naive set theory.md",
-    "Emergent Notes/Untitled.md",
-    "Emergent Notes/Cryptography.md",
-    "Emergent Notes/Math madness.md",
-    "Emergent Notes/Counting.md",
     "Visuals/2d_det.png",
     "Visuals",
     "Untitled.canvas",
