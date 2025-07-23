@@ -5,3 +5,4 @@ Collection of distinct elements, treated as a single object.
 
 [[Naive set theory]]
 [[ZF set theory]]
+[[Space]]

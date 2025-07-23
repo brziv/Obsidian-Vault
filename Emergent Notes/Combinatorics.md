@@ -2,7 +2,8 @@
 
 The study of [[Counting]], arrangements, and discrete structures.
 
-#### Graph Theory
+[[Graph theory]]
+
 A graph $G = (V, E)$ consists of:
 - a set of vertices $V$
 - a set of edges $E \subseteq V \times V$

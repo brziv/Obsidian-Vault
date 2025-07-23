@@ -12,7 +12,7 @@ The study of techniques for secure communication, ensuring confidentiality, inte
 ---
 ### Modern Cryptography
 
-Uses mathematical algorithms, often based on number theory, for stronger security.
+Uses mathematical algorithms, often based on [[Number theory]], for stronger security.
 #### Symmetric-key encryption
 - The same key is used for both encryption and decryption.
 - Examples: AES (Advanced Encryption Standard), DES (Data Encryption Standard).
@@ -52,7 +52,5 @@ Uses mathematical algorithms, often based on number theory, for stronger securit
 - Cryptanalysis: Exploiting weaknesses in algorithms.
 - Side-channel attacks: Using timing, power consumption, or other physical leaks.
 
-
-[[Complexity theory]]
 [[Cybersecurity]]
 [[Quantum computing]]

@@ -4,7 +4,7 @@ Study structures that are countable or distinct $\neq$ continuous (Calculus)
 -> Foundation for computer science
 
 Built on: First-order logic, ZFC set theory, Peano axioms, Turing machine
-	Logic:
+	[[Logic]]:
 		Proposition (`statement`), connective (`AND, OR, NOT`), quantifier (`∀, ∃`)
 		Truth table
 		-> proof, circuit, programming
@@ -19,10 +19,10 @@ Built on: First-order logic, ZFC set theory, Peano axioms, Turing machine
 	[[Counting]] and [[Combinatorics]]:
 		Permutation, combination, pigeonhole principle
 		-> probability, cryptography, algorithm
-	Graph and tree:
+	[[Graph theory]]:
 		Node, edge, directed, undirected, degree, tree, binary tree
 		-> network, data structure
-	Number theory:
+	[[Number theory]]:
 		GCD, LCM, prime number, modular arithmetic
 		-> [[Cryptography]], hashing
 	Algorithm and complexity:
