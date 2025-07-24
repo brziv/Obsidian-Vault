@@ -7,3 +7,6 @@
 [[Linear Algebra]]
 [[Discrete Math]]
 [[Next steps]]
+[[Abtract Algebra]]
+[[Probability]]
+[[Analysis]]

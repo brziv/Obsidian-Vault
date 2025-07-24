@@ -10,9 +10,8 @@ This foundation is built upon several other critical foundations, especially Mat
 	Engineering & Physics: Digital electronics, semiconductor, Von Neumann architecture
 	Lingustics: Chomsky hierarchy, automata theory
 	
-[[Algorithm]]
-[[Data Structure]]
+[[Algorithms]]
+[[Data Structures]]
 [[Information theory]]
 [[Complexity theory]]
 
-[[Computational geometry]]

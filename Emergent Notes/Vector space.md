@@ -16,6 +16,15 @@ satisfying the following axioms for all $u,v,w \in V$ and all scalars $a,b \in F
 - **Distributivity of scalar multiplication with respect to field addition:** $(a + b) u = a u + b u$.
 
 ---
+#### What Is a Vector?
+
+A **vector** is any element $v \in V$ of a vector space $V$.
+
+- In $\mathbb{R}^n$, vectors are usually represented as tuples: $v = (v_1, v_2, \dots, v_n)$
+- In function spaces, vectors can be functions: $f \in C^\infty(\mathbb{R})$, etc.
+- In abstract algebra, a vector might be a formal object with no concrete representation, defined only by the axioms.
+
+---
 ### Infinite-Dimensional Polynomial Space
 
 The set of all polynomials in one variable $x$ with real coefficients is:

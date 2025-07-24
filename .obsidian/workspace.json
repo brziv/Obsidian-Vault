@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35437b72c3a93cc2",
+            "id": "e84f3ef38f7b714d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent Notes/Next steps.md",
+                "file": "Daily Notes/École Polytechnique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Next steps"
+              "title": "École Polytechnique"
             }
           },
           {
-            "id": "7187b7dd710872c0",
+            "id": "21f1af73878837db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emergent Notes/Linear Algebra.md",
+                "file": "Emergent Notes/Math.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,92 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
-            }
-          },
-          {
-            "id": "335b2f5f66b152bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Notes/Discrete Math.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Discrete Math"
-            }
-          },
-          {
-            "id": "57cfba83e0a90f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Notes/Logic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Logic"
-            }
-          },
-          {
-            "id": "108bf1047b2d631d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emergent Notes/Space.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Space"
-            }
-          },
-          {
-            "id": "ac3692851c91bb7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Math"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,35 +210,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35437b72c3a93cc2",
+  "active": "21f1af73878837db",
   "lastOpenFiles": [
-    "Emergent Notes/Linear Algebra.md",
-    "Emergent Notes/Discrete Math.md",
-    "Emergent Notes/Space.md",
-    "Emergent Notes/Logic.md",
-    "Emergent Notes/Number theory.md",
-    "Emergent Notes/Cryptography.md",
-    "Emergent Notes/Complexity theory.md",
-    "Emergent Notes/Combinatorics.md",
-    "Emergent Notes/Graph theory.md",
-    "Emergent Notes/Set.md",
-    "Emergent Notes/Function.md",
-    "Emergent Notes/Relation.md",
-    "Emergent Notes/Next steps.md",
-    "Emergent Notes/Math.md",
+    "Daily Notes/École Polytechnique.md",
     "Daily Notes/Daily.md",
-    "Emergent Notes/Math foundation.md",
-    "Emergent Notes/Math madness.md",
-    "Emergent Notes/Vector space.md",
-    "Emergent Notes/Morphism.md",
-    "Emergent Notes/ZF set theory.md",
-    "Daily Notes/22-07-2025.md",
     "Daily Notes/Modeling reality.md",
+    "Daily Notes/Meaning of life.md",
+    "Daily Notes/Learning approach.md",
     "Daily Notes/A spherical reality.md",
+    "Daily Notes/22-07-2025.md",
+    "Daily Notes/22-06-2025.md",
+    "Emergent Notes/Math.md",
+    "Emergent Notes/Next steps.md",
+    "Emergent Notes/Vector space.md",
+    "Emergent Notes/Space.md",
+    "Emergent Notes/Probability.md",
+    "Emergent Notes/Discrete Math.md",
+    "Emergent Notes/Algorithms.md",
+    "Emergent Notes/Theory.md",
+    "Emergent Notes/Information theory.md",
+    "Emergent Notes/Information.md",
+    "Emergent Notes/Cryptography.md",
+    "Emergent Notes/Data Structures.md",
+    "Emergent Notes/Complexity theory.md",
+    "Emergent Notes/Computational geometry.md",
+    "Emergent Notes/Analysis.md",
+    "Emergent Notes/Set.md",
+    "Emergent Notes/Logic.md",
+    "Emergent Notes/Abtract Algebra.md",
     "desktop.ini",
-    "Emergent Notes/Cross product.md",
-    "Emergent Notes/Dot product.md",
-    "Emergent Notes/Determinant.md",
     "Visuals/2d_det.png",
     "Visuals",
     "Untitled.canvas",
